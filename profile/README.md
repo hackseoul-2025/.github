@@ -52,6 +52,8 @@
 
 ### 기술 스택
 
+<img width="700" height="600" alt="image" src="https://github.com/user-attachments/assets/1896dc69-e146-453c-bb10-feb09bc7bf12" />
+
 **Frontend**
 - Swift
 
