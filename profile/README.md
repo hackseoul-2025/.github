@@ -8,10 +8,10 @@
 
 ## 팀 구성
 
-- **김수곤** - 리더 / AI 엔지니어
-- **박정환** - 프론트엔드 개발자
-- **유희진** - 백엔드 / DevOps 엔지니어
-- **기태린** - PM / 데이터 엔지니어
+- **김수곤** - 리더 / AI
+- **박정환** - 프론트엔드
+- **유희진** - 백엔드 / DevOps
+- **기태린** - PM / 데이터
 
 ## 문제 정의
 
@@ -61,6 +61,10 @@
 - FastAPI
 
 **AI/ML 파이프라인**
+- RAG
+- LLM, TTS 모델
+- YOLO
+- Vision Model Fine tuning
 
 **Infra/DevOps**
 - AWS EC2, S3 bucket, RDS
