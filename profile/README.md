@@ -57,7 +57,7 @@
 > - [Museum Technology Market Research Report 2033](https://marketintelo.com/report/museum-technology-market)
 > - N. Xu, Y. Li, J. Lin, L. Yu and H. -N. Liang, "User Retention of Mobile Augmented Reality for Cultural Heritage Learning," 2022 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct), Singapore, Singapore, 2022, pp. 447-452
 
-## Our Solution
+## 💡 Our Solution
 
 #### 뮤지엄? 뭐지엄?
 - 관람객에게 직접 말을 거는 살아있는 페르소나
@@ -85,7 +85,7 @@
 - 페르소나 진정성에 대한 사용자 피드백 수집
 - 파일럿 검증: 소규모 박물관과 파일럿 테스트 후 대형 박물관으로 확장
 
-## ✔️ Feature
+## ✅ Feature
 
 #### 1. 카메라 기반 작품/유물 인식
 - 컴퓨터 비전을 활용한 실시간 작품/유물 식별
@@ -116,7 +116,7 @@
 - **Infra/DevOps**: AWS EC2, S3 bucket, RDS
 - **GitHub Actions**: CI/CD
 
-## Data Flow
+## 💻 Data Flow
 
 ```
 사용자 카메라 → 이미지 인식 → 작품 식별 
@@ -128,7 +128,7 @@
 자연스러운 음성 응답 + 텍스트 표시
 ```
 
-## Roadmap
+## 🛤️ Roadmap
 
 #### 2단계: 향상된 AR 경험
 - **3D AR 아바타**: 증강 현실 속 전신 페르소나
